@@ -8,7 +8,7 @@ export default function Home() {
       <div className="mt-16">
         <div className="text-center">
           <h1 className="text-4xl font-bold uppercase">Room & Rates</h1>
-          <p className="py-3">Find out comfortable room with affordable prices</p>
+          <p className="py-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, ut.</p>
         </div>
       </div>
       <Main />
