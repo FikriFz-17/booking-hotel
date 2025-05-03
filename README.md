@@ -9,7 +9,7 @@ git clone https://github.com/FikriFz-17/booking-hotel.git
 ### Run 
 
 ```bash
-git clone https://github.com/FikriFz-17/booking-hotel.git
+npm run dev
 ```
 
 ### Preview
